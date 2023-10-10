@@ -1,0 +1,2 @@
+javac -sourcepath ./src/main/java -d out ./src/main/java/org/example/Main.java
+java -classpath ./out org.example.Main
